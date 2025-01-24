@@ -1,4 +1,3 @@
-import math
 import random
 
 pisteet = float(input('Syötä pisteiden määrä: '))
