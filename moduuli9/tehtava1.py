@@ -10,7 +10,7 @@ class Auto:
               f'{self.huippunopeus} km/h\n'
               f'{self.nopeus} km/h\n'
               f'{self.matka} km')
-auto = Auto('ABC-123', '142')
 
+auto = Auto('ABC-123', '142')
 
 auto.naytaTiedot()
